@@ -19,7 +19,7 @@ https://api.dler.io/sub?target=Clash&url=%E4%BD%A0%E7%9A%84%E8%AE%A2%E9%98%85%E9
 后端地址均为网上收集，如出现订阅地址泄漏等问题，与本项目无关，概不负责。  
 
 ## 目前已知存在的问题
-1、openclash在使用次规则时只在tun模式下生效，但是tun模式会影响游戏。  
+1、openclash在使用此规则时只在tun模式下生效，但是tun模式会影响游戏。  
 使用环境：smartdns+openclash(控制面板的连接中只显示ip不显示域名)  
 原因：根据openclash作者vernesong大佬的描述，是因为DNS劫持有问题。  
 解决办法：开始meta内核的嗅探  
