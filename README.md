@@ -16,5 +16,5 @@ https://api.dler.io/sub?target=Clash&url=%E4%BD%A0%E7%9A%84%E8%AE%A2%E9%98%85%E9
 后端地址均为网上收集，如出现订阅地址泄漏等问题，与本项目无关，概不负责。  
 
 ### 致谢：(列表不分先后)  
-ACL4SSR  
-wgetnz  
+[ACL4SSR](https://github.com/ACL4SSR)  
+[wgetnz](https://github.com/wgetnz)
