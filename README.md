@@ -1,8 +1,13 @@
-# 带ChatGPT分流的clash规则
+# 补充版clash规则
 本规则基于  
 ACL4SSR_Online_Full 全分组重度用户使用(与Github同步)[传送门](https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_Full.ini)  
 wgetnz/chattgpt-openclash的chatgpt.list[传送门](https://github.com/wgetnz/chatgpt-openclash/blob/main/chatgpt.list)  
 整合而成  
+
+# 目前已补充的规则  
+1、ChatGPT
+2、泥视频
+# 需要别的规则可在ISSUES中提出，并附上需要用到的域名（如果不会抓包，可以提供主站域名，空了我自己抓）
 
 ## 使用方法：  
 方法一：  
