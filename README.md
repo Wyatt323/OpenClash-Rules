@@ -25,21 +25,18 @@ https://wyatt323.github.io/
 后端地址均为网上收集，如出现订阅地址泄漏等问题，与本项目无关，概不负责。  
 
 ## 目前已知存在的问题
-1、openclash在使用此规则时只在tun模式下生效，但是tun模式会影响游戏。  
+~~1、openclash在使用此规则时只在tun模式下生效，但是tun模式会影响游戏。  
 使用环境：smartdns+openclash(控制面板的连接中只显示ip不显示域名)  
 原因：根据openclash作者vernesong大佬的描述，是因为DNS劫持有问题。  
 解决办法：开始meta内核的嗅探  
 
-2. 泥视频不知道什么原因，规则时好时坏，参考wgetnz所说，可能是因为http3的问题，通过下面代码，可以关闭http3
+~~2. 泥视频不知道什么原因，规则时好时坏，参考wgetnz所说，可能是因为http3的问题，通过下面代码，可以关闭http3
 
-```csharp
+~~```csharp
     chrome://flags/#enable-quic
     edge://flags/#enable-quic
 ```
-降级成 http1/2 就能让域名路由规则生效了。
-
-|`这是一个 ~~删除线~~`|这是一个 ~~删除线~~|
-
+~~降级成 http1/2 就能让域名路由规则生效了。
 
 ### 致谢：(列表不分先后)  
 [ACL4SSR](https://github.com/ACL4SSR)  
