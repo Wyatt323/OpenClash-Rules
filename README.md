@@ -34,10 +34,10 @@ https://wyatt323.github.io/
 ··可能是因为http3的问题，通过下面代码，可以关闭http3 降级成 http1/2 就能让域名路由规则生效了。~~  
 
 ```csharp
-    ~~chrome://flags/#enable-quic~~  
-    ~~edge://flags/#enable-quic~~
+    chrome://flags/#enable-quic  
+    edge://flags/#enable-quic
 ```
-
+  
 ### 致谢：(列表不分先后)  
 [ACL4SSR](https://github.com/ACL4SSR)  
 [wgetnz](https://github.com/wgetnz)  
