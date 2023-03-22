@@ -38,6 +38,8 @@ https://wyatt323.github.io/
     edge://flags/#enable-quic
 ```
   
+所有分流不生效，都是因为没有识别域名造成，openclash可以开启meta内核的域名嗅探功能，将需要分流的域名填进去，其余客户端自己百度下，我没使用过，不做教程
+  
 ### 致谢：(列表不分先后)  
 [ACL4SSR](https://github.com/ACL4SSR)  
 [wgetnz](https://github.com/wgetnz)  
