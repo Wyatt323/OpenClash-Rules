@@ -33,10 +33,10 @@ https://wyatt323.github.io/
 ~~2. 泥视频不知道什么原因，规则时好时坏，参考wgetnz所说，··  
 ··可能是因为http3的问题，通过下面代码，可以关闭http3 降级成 http1/2 就能让域名路由规则生效了。~~  
 
-~~```csharp~~
+```csharp
     ~~chrome://flags/#enable-quic~~  
     ~~edge://flags/#enable-quic~~
-~~```~~
+```
 
 ### 致谢：(列表不分先后)  
 [ACL4SSR](https://github.com/ACL4SSR)  
