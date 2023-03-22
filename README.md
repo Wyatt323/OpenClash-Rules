@@ -20,7 +20,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接（URL�
 ```shell
 https://wyatt323.github.io/  
 ```  
-不知道为什么github的page没有生效，可以自行搭建nginx容器后将[前端文件](https://github.com/Wyatt323/sub-demo)放入对应文件夹，后端和规则配置我已经在文件中写好了
+也可以自行搭建nginx容器后将[前端文件](https://github.com/Wyatt323/sub-demo)放入对应文件夹，后端和规则配置我已经在文件中写好了
 ## 免责声明：
 后端地址均为网上收集，如出现订阅地址泄漏等问题，与本项目无关，概不负责。  
 
