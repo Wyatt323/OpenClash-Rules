@@ -7,6 +7,7 @@ wgetnz/chattgpt-openclash的chatgpt.list[传送门](https://github.com/wgetnz/ch
 ## 目前已补充的规则  
 ### 1、ChatGPT  
 ### 2、泥视频
+### 3、Bing
 ## 需要别的规则可在ISSUES中提出，并附上需要用到的域名（如果不会抓包，可以提供主站域名，空了我自己抓）
 
 ## 使用方法：  
