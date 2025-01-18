@@ -1,8 +1,14 @@
-DOMAIN-SUFFIX,hxd.as174.de
+#hxd
 DOMAIN-SUFFIX,as174.de
-DOMAIN-SUFFIX,cf.bili.rip
+DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
 
+#守候
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,emby.cn2gias.uk
+
+#ACA&Misakaf 跑路咯
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
