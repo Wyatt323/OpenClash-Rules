@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,emby.69yun69.com
 IP-CIDR, 104.161.22.118/32
 
+#萝卜（公益服）
+DOMAIN-SUFFIX,785858.xyz
+DOMAIN-SUFFIX,emby.785858.xyz
+
 #ACA&Misakaf 跑路咯
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
