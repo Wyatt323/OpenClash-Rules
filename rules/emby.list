@@ -1,9 +1,3 @@
-#hxd
-DOMAIN-SUFFIX,as174.de
-DOMAIN-SUFFIX,hxd.as174.de
-DOMAIN-SUFFIX,bili.rip
-DOMAIN-SUFFIX,cf.bili.rip
-
 #守候
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,emby.cn2gias.uk
@@ -13,21 +7,19 @@ DOMAIN-SUFFIX,69yun69.com
 DOMAIN-SUFFIX,emby.69yun69.com
 IP-CIDR, 104.161.22.118/32
 
-#萝卜（公益服）
-DOMAIN-SUFFIX,785858.xyz
-DOMAIN-SUFFIX,emby.785858.xyz
-
 #蘑菇
 DOMAIN-SUFFIX,mooguu.org
 DOMAIN-SUFFIX,shop.mooguu.org
 DOMAIN-SUFFIX,vban.xyz 
 DOMAIN-SUFFIX,wf.vban.xyz 
 
-#ACA&Misakaf 跑路咯
-DOMAIN-SUFFIX,stream1.misakaf.org
-DOMAIN-SUFFIX,stream2.misakaf.org
-DOMAIN-SUFFIX,stream3.misakaf.org
-DOMAIN-SUFFIX,stream4.misakaf.org
-DOMAIN-SUFFIX,emby.aca.best
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,aca.misakaf.org
+#hxd
+DOMAIN-SUFFIX,as174.de
+DOMAIN-SUFFIX,hxd.as174.de
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
+
+#萝卜（公益服）
+DOMAIN-SUFFIX,785858.xyz
+DOMAIN-SUFFIX,emby.785858.xyz
+
