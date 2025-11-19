@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,emby.69yun69.com
 IP-CIDR, 104.161.22.118/32
 
 DOMAIN-SUFFIX,www.lilyemby.my
+
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
