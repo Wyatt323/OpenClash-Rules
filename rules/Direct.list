@@ -8,6 +8,3 @@ IP-CIDR, 69.46.75.0/24
 IP-CIDR, 205.164.56.29/24
 #UDP 语音电话
 IP-CIDR, 63.251.124.0/24
-
-DOMAIN-SUFFIX,cdn.lilyemby.my
-DOMAIN-SUFFIX,tx.lilyemby.my
