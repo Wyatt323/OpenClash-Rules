@@ -10,6 +10,9 @@ IP-CIDR, 104.161.22.118/32
 DOMAIN-SUFFIX,www.lilyemby.my
 DOMAIN-SUFFIX,www.lilyemby.com
 
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,m.mobaiemby.site
+
 DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
