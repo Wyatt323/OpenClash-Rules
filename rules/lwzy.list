@@ -1,16 +1,18 @@
 #DOMAIN-KEYWORD,nivod
 #DOMAIN-SUFFIX,nivodz.com
 
+# NS论坛
 DOMAIN-KEYWORD,nodeseek
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,umate.me
-
+# 快捷指令网站
 DOMAIN-KEYWORD,routinehub
 DOMAIN-SUFFIX,routinehub.co
-
+# 耳东橙
 DOMAIN-KEYWORD,erdongchan
 DOMAIN-SUFFIX,erdongchan.cn
 DOMAIN-SUFFIX,pan.erdongchan.cn
 DOMAIN-SUFFIX,store.erdongchan.cn
-
-
+# 亏本机场
+DOMAIN-SUFFIX,dash.knjc.cfd
+DOMAIN-SUFFIX,knjc.cfd
