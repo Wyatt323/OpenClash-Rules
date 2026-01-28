@@ -1,17 +1,17 @@
-#守候
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,server2.cn2gias.uk
-
-#69
-DOMAIN-SUFFIX,69yun69.com
-DOMAIN-SUFFIX,emby.69yun69.com
-IP-CIDR, 104.161.22.118/32
 
 DOMAIN-SUFFIX,www.lilyemby.my
 DOMAIN-SUFFIX,www.lilyemby.com
 
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,m.mobaiemby.site
+
+DOMAIN-SUFFIX,embymv.link
+
+DOMAIN-SUFFIX,69yun69.com
+DOMAIN-SUFFIX,emby.69yun69.com
+IP-CIDR, 104.161.22.118/32
 
 DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,link00.okemby.org
