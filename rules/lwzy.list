@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,store.erdongchan.cn
 # 亏本机场
 DOMAIN-SUFFIX,dash.knjc.cfd
 DOMAIN-SUFFIX,knjc.cfd
+# SNTP
+DOMAIN-SUFFIX,sub1.sntp.me
+DOMAIN-SUFFIX,sntp.me
