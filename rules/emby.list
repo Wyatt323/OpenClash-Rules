@@ -1,8 +1,9 @@
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,server2.cn2gias.uk
 
-DOMAIN-SUFFIX,www.lilyemby.my
 DOMAIN-SUFFIX,www.lilyemby.com
+DOMAIN-SUFFIX,tx.lilyemby.com
+DOMAIN-SUFFIX,aliyun.lilyemby.com
 
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,m.mobaiemby.site
@@ -23,12 +24,7 @@ DOMAIN-SUFFIX,emby.bangumi.ca
 
 DOMAIN-SUFFIX,emos.best
 
-DOMAIN-SUFFIX,notfounda.shop
-DOMAIN-SUFFIX,ns1e.notfounda.shop
-
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,lite.liminalnet.com
-
-DOMAIN-SUFFIX,zhousanwan.xyz
 
 DOMAIN-SUFFIX,772111.xyz
